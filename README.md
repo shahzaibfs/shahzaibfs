@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahzaibfs
-- 👀 I’m interested in Ai , machine learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects related to web development and ai
+- 👀 I’m interested in Ai , machine learning, app Development
+- 🌱 I’m currently learning JAva
+- 💞️ I’m looking to collaborate on projects related to web development 
 - 📫 How to reach me "Shahzaibalam231@gmail.com"
 
 <!---
